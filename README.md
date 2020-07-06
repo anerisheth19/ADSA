@@ -11,3 +11,5 @@ Projects on Advanced Data Structures and Algorithms:
 5) Dependency Tree Algorithm
 
 6) Insertion Sort in C++ 
+
+7) Neighborhood Component Analysis - Machine learning algorithm in Python 
